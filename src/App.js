@@ -36,7 +36,7 @@ function App() {
 
           <h1>Contact Us</h1>
 
-          <lable>Name:</lable>
+          <lable> Your Name:</lable>
           <input type="text" placeholder="Enter your name.." name="name"required/>
 
           <lable>Contact No:</lable>
